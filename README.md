@@ -11,7 +11,7 @@
  
  <br><div align='center'>
  
-  Software Engineer from Russia
+  Software Engineer student from Russia
   
   Python web developer
  </div>
