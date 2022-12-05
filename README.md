@@ -8,18 +8,15 @@
 ⠀<div align='center'>![GitHub metrics](https://metrics.lecoq.io/Re-Gelu) </div>-->
 
  
- 
  <br><div align='center'>
  
   Software Engineer student from Russia
   
  </div>
- 
-⠀<div align='center'> ![](https://github.com/Re-Gelu/snk/raw/output/github-contribution-grid-snake.svg) </div>
 
 ⠀<!--<div align='center'> 
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Re-Gelu) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/re_gelu) -->
- </div>
+
  
  ###### За нас, за вас и за бебру :beers:
 
