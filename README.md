@@ -10,7 +10,8 @@
  
  <br><div align='center'>
  
-  Software Engineer student from Russia
+  Software Engineer student from Russia<br><br>
+  Python | JavaScript
   
  </div> 
 
