@@ -11,7 +11,7 @@
  <br><div align='center'>
  
   Software Engineer student from Russia<br><br>
-  Python | JavaScript
+  Python | TypeScript
   
  </div> 
 
