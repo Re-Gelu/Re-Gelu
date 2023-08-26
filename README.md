@@ -10,7 +10,7 @@
  
  <br><div align='center'>
  
-  Full-Stack Developer & Software Engineer from Russia<br><br>
+  Full-Stack Developer & Software Engineer Student from Russia<br><br>
   I believe in ```Python | TypeScript``` supremacy :)
   
  </div> 
