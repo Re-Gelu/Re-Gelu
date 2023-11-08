@@ -11,7 +11,7 @@
  <br><div align='center'>
  
   Full-Stack Developer & Software Engineer Student from Russia<br><br>
-  I believe in ```Python | TypeScript``` supremacy :)
+  <!-- I believe in ```Python | TypeScript``` supremacy :)-->
   
  </div> 
 
